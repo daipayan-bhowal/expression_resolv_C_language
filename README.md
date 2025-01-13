@@ -1,5 +1,5 @@
 # expression_resolv_C_language
-Expression resolution (C Programming): An C expression parser and code generator without using stack (using priority linked list) 
+Expression resolution (C Programming): A C expression parser and code generator without using stack (using priority linked list) , written in gcc
 
 It can take any C expression string and generate corresponding assembly language
 
